@@ -1,5 +1,6 @@
 # project files to be ignored
 settings.json
+zappa_settings.json
 
 # editors
 .vscode
